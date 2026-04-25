@@ -1,0 +1,8 @@
+transformers
+datasets
+evaluate
+sentencepiece
+torch
+fastapi
+uvicorn
+streamlit
